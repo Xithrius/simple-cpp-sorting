@@ -1,5 +1,3 @@
-#include "../include/TemplateProject/main.hpp"
-
 #include <iostream>
 
 using namespace std;

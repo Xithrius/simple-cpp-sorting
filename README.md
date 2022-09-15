@@ -1,2 +1,3 @@
-# TemplateProject
-Template for project in C++
+# simple-cpp-sorting
+
+A couple sorting algorithms implemented in C++

@@ -33,3 +33,9 @@
 
 # CMake output files
 cmake-build-debug
+
+# Current output binary
+main
+
+# jetbrains config folder
+.idea
